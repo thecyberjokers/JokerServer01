@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Secure Vault</string>
+    <string name="vault_title">Secure Local Vault</string>
+    <string name="vault_tagline">100% Offline • AES-256 Encrypted</string>
+    <string name="storage_quota">10 GB Vault Storage</string>
+</resources>

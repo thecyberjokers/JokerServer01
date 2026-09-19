@@ -1,0 +1,8 @@
+{
+  "name": "JokerServer",
+  "description": "Offline encrypted local storage vault with phone number login, 10 GB quota, and zero cloud uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
